@@ -9,12 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^3.2.6",
-    "cheerio": "^1.0.0",
     "fs": "^0.0.1-security",
-    "lodash": "^4.17.21",
-    "lodash.isequal": "^4.5.0",
+    "jsdom": "^26.0.0",
     "path": "^0.12.7",
-    "request": "^2.88.2"
+    "xlsx": "^0.18.5"
   }
 }
