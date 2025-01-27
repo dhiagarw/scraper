@@ -50,7 +50,7 @@ async function fetchData(url) {
 }
 
 (async () => {
-   const urls = ["https://www.ups.com/fr/en/SearchResults.page","https://www.ups.com/fr/en/business-solutions/business-shipping-tools/ups-campusship.page"];
+   const urls = ["https://www.sample.com/abc.html","https://www.sample.com/def.html"];
 
    let allData = [];
    for (const url of urls) {
